@@ -1,0 +1,10 @@
+# undirected and NOT connected: {0,1,2} {3,4} {5} {6} {7}  -> 5 components
+# vertices 6 and 7 are isolated, 5 only has a self-loop, 3-4 is a parallel edge
+# minimum spanning forest weight = 9, 3 edges
+8 6 undirected
+0 1 5
+1 2 3
+0 2 4
+3 4 7
+4 3 2
+5 5 1
