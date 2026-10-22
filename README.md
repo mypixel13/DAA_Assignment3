@@ -4,7 +4,7 @@ Own graph class (adjacency list, directed or undirected), DSU, Kruskal, Prim, Ko
 shortest paths in a DAG, with operation counters, a self-checking benchmark and JUnit 5 tests.
 Bonus: Tarjan's SCC, condensation and critical path.
 
-GitHub: `<link to the repository>` (branch `main`, tag `v1.0`)
+GitHub: `(https://github.com/mypixel13/DAA_Assignment3.git)` (branch `main`, tag `v1.0`)
 
 ## Layout
 
